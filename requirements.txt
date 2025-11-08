@@ -1,0 +1,14 @@
+transformers
+torch
+sentencepiece
+keybert
+langdetect
+emoji
+google-api-python-client
+psycopg2-binary
+python-dotenv
+psycopg2
+fastapi
+uvicorn[standard]
+psycopg2-binary
+psycopg2
